@@ -1,8 +1,12 @@
 ![LibreSpeed Logo](https://github.com/librespeed/speedtest/blob/master/.logo/logo3.png?raw=true)
 
-# LibreSpeed
+# LibreSpeed HTML - Automated Installer (Router-X Stack)
 
 Sem Flash, Java, Websocket, besteira.
+
+Este repositorio contem o script de implantacao automatizada para o **LibreSpeed** (Speedtest HTML baseado na versao do Remontti), otimizado para rodar com alta performance utilizando a stack moderna **Nginx, PHP-FPM e MariaDB Server**.
+
+O script foi projetado para ambientes de provedores e consultorias que buscam uma solucao estavel, segura e de rapida execucao para testes de banda internos ou publicos.
 
 Este é um Speedtest leve, implementado em Javascript, usando XMLHttpRequest e Web Workers.
 
@@ -22,8 +26,6 @@ Também funciona com versões móveis.
 * Telemetria (optional)
 * Compartilhamento de resultados (opcional)
 * Vários pontos de teste (opcional)
-
-![Captura de tela](https://speedtest.fdossena.com/mpot_v6.gif)
 
 ## Requisitos do servidor
 * Um servidor Web com Apache 2 (nginx, IIS também suportado)
