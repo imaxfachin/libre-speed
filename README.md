@@ -29,7 +29,7 @@ Também funciona com versões móveis.
 
 ## Requisitos do servidor
 * Um servidor Web com Apache 2 (nginx, IIS também suportado)
-* PHP 5.4 (outros back-ends também disponíveis)
+* PHP 7.4 (outros back-ends também disponíveis)
 * Banco de dados MySQL/MariaDB para armazenar os resultados dos testes (opcional, PostgreSQL e SQLite também são suportados)
 * Uma rápida conexão de internet
 
