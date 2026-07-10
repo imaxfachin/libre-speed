@@ -1,10 +1,10 @@
 ![LibreSpeed Logo](https://github.com/librespeed/speedtest/blob/master/.logo/logo3.png?raw=true)
 
-# LibreSpeed
+# LibreSpeed HTML - Automated Router-X Stack
 
 Sem Flash, Java, Websocket, besteira.
 
-Este é um Speedtest leve, implementado em Javascript, usando XMLHttpRequest e Web Workers.
+Este e um Speedtest extremamente leve, implementado em Javascript Puro, usando XMLHttpRequest e Web Workers. Esta versao foi totalmente automatizada e otimizada para rodar com foco em performance na stack Nginx + PHP-FPM.
 
 ## Teste
 [Teste aqui](https://librespeed.org)
@@ -22,8 +22,6 @@ Também funciona com versões móveis.
 * Telemetria (optional)
 * Compartilhamento de resultados (opcional)
 * Vários pontos de teste (opcional)
-
-![Captura de tela](https://speedtest.fdossena.com/mpot_v6.gif)
 
 ## Requisitos do servidor
 * Um servidor Web com Apache 2 (nginx, IIS também suportado)
